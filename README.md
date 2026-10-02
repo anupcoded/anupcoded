@@ -178,21 +178,27 @@ I also have repositories covering Java, Python, Go, PowerShell, Docker, Jenkins,
 ## How I approach engineering
 
 ### Build platforms, not snowflakes
+
 Reusable interfaces and automation are more valuable than one-off infrastructure.
 
 ### Design for failure
+
 Capacity limits, unhealthy nodes, failed deployments, broken dependencies and partial outages are design inputs, not surprises.
 
 ### Make infrastructure observable
+
 If a platform is important, its health, capacity and failure modes should be visible.
 
 ### Automate the boring parts
+
 If engineers repeatedly perform the same operational task, there is probably an opportunity to turn it into a product or workflow.
 
 ### Keep trade-offs explicit
+
 Performance, cost, reliability, security and developer experience often pull in different directions. Good platform engineering makes those trade-offs visible.
 
 ### Prefer practical abstractions
+
 Abstractions should remove unnecessary complexity without hiding the behaviour engineers need to understand when something breaks.
 
 ---
@@ -229,7 +235,7 @@ My long-term direction is toward **technical leadership and platform ownership**
 ## Let's connect
 
 - GitHub: [@anupcoded](https://github.com/anupcoded)
-- Email: [anupcoded@gmail.com](mailto:anupcoded@gmail.com)
+- Email: [anup.ramachandran@outlook.com](mailto:anup.ramachandran@outlook.com)
 
 ---
 
